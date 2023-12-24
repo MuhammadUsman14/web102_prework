@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/MtXP4KR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgur.com/a/4iQy3am" target="_blank" title="Video Walkthrough">
+  <img src="https://imgur.com/a/4iQy3am" alt="Video Walkthrough" width="your_width_here">
+</a>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Could not create.
