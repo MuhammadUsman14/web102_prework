@@ -24,15 +24,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/MtXP4KR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  [Kap](https://getkap.co/) for macOS
+GIF created with ...  Could not create.
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 
 None
 
